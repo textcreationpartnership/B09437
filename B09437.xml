@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for traytors, or, High treason rewarded being a full account of the examination of the second person that was executed in Novem. 1678 by name, Edward Coleman, Esq, who was found guilty of high treason, at the Kings-Bench-Bar at VVestminter, the 27th of Nov. 1678 for plotting and contriving the death of our soveraign Lord the King, and endeavouring to change the government of the nation and utterly to extirpate the protestant religion, for which he was sentenced to be drawn, hang'd and quartered being accordingly executed the 3d. day of this instant Decemb. at Tyburn, tune of, Aim not too high, or, Fortune my foe.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09437</idno><idno type="EEBO-CITATION">62369443</idno>
+  <idno type="VID">187998</idno>
+  <idno type="EEBO-PROQUEST">2240865908</idno>
+  
+            <idno type="STC">Wing L3034A</idno>
+            <idno type="STC">ESTC R180055</idno>
+            <idno type="OCLC">62369443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187998)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for traytors, or, High treason rewarded being a full account of the examination of the second person that was executed in Novem. 1678 by name, Edward Coleman, Esq, who was found guilty of high treason, at the Kings-Bench-Bar at VVestminter, the 27th of Nov. 1678 for plotting and contriving the death of our soveraign Lord the King, and endeavouring to change the government of the nation and utterly to extirpate the protestant religion, for which he was sentenced to be drawn, hang'd and quartered being accordingly executed the 3d. day of this instant Decemb. at Tyburn, tune of, Aim not too high, or, Fortune my foe.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, I. Wright, and I. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Coleman, Edward, d. 1678 --  Poetry.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:187998:1"/>
+            <pb facs="tcp:187998:2"/>
+            <head>
+               <hi>A Looking-Glass for Traytors, <hi>OR, High Treason Rewarded.</hi>
+               </hi>
+            </head>
+            <head type="sub">Being a full Account of the Examination of the Second Person that was Executed in <hi>Novem.</hi> 1678. by Name, <hi>Edward Coleman,</hi> Esq; who was found guilty of high Treason, at the <hi>Kings-Bench-Bar</hi> at <hi>VVestminster,</hi> the 27th. of <hi>Nov.</hi> 1678. for Plotting and contriving the Death of our Soveraign Lord the King, and endeavouring to change the Government of the Nation, and utterly to extir<g ref="char:EOLhyphen"/>pate the Protestant Religion. For which he was sentenced to be Drawn, Hang'd, and Quartered: Being accordingly Executed the 3d. day of this Instant <hi>Decemb.</hi> at <hi>Tyburn.</hi>
+            </head>
+            <opener>Tune of, <hi>Aim not too high,</hi> Or, <hi>Fortune my Foe.</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>a man with a scythe and a skeleton with an arrow</figDesc>
+                  <q>
+                     <lg>
+                        <head>TIME and DEATH'S Advise to all VVicked Livers.</head>
+                        <l>Beware in TIME, too High don't Climb, for Fear you catch a Fall,</l>
+                        <l>For if you do, 'tis even True, Squire <hi>Katch</hi> will Pay you all.</l>
+                     </lg>
+                  </q>
+               </figure>
+               <figure>
+                  <figDesc>figures beneath an archway guarding a captive while armed men march by</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>LEt all bold Traytors here come take a view,</l>
+               <l>How antient <hi>Tiburn</hi> doth receive its due:</l>
+               <l>Their dark designs, and hidden Treachery,</l>
+               <l>Will bring them all unto the tripple Tree.</l>
+            </lg>
+            <lg>
+               <l>Here <hi>Coleman,</hi> their King leader of great fame,</l>
+               <l>Hath brought himself unto his end with shame:</l>
+               <l>By striving to be great before his time,</l>
+               <l>He became guilty of a Horrid Crime.</l>
+            </lg>
+            <lg>
+               <l>Ambition is a bait the Devil lays,</l>
+               <l>To catch such haughty Spirits now adays:</l>
+               <l>And when that he hath caught them in the Tray,</l>
+               <l>He gives them o're to ruine and mishap.</l>
+            </lg>
+            <lg>
+               <l>Too many are concerned in this thing,</l>
+               <l>Against Religion, and our gracious King:</l>
+               <l>But I shall now, the world to satisfie,</l>
+               <l>Tell how this grand offender came to dye.</l>
+            </lg>
+            <lg>
+               <l>The Prisoner bring brought to <hi>VVestminster,</hi>
+               </l>
+               <l>And there in Court, Indicted at the Bar:</l>
+               <l>His Crimes were all laid open unto view,</l>
+               <l>As horrid things, as ever Christian knew.</l>
+            </lg>
+            <lg>
+               <l>How that he did contrive a fearful thing,</l>
+               <l>For to destroy our Soveraign Lord the King:</l>
+               <l>To change the fundamental Laws o'th Land</l>
+               <l>As by the Sequel you shall understand.</l>
+            </lg>
+            <pb facs="tcp:187998:2"/>
+            <p>
+               <figure>
+                  <figDesc>three methods of execution: hanging, drawing, and quartering</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>To bring in Popery with all his might,</l>
+               <l>And true Religion for to banish quite:</l>
+               <l>With Fire and Sword, for to destroy and burn,</l>
+               <l>True Protestants, or force them for to turn.</l>
+            </lg>
+            <lg>
+               <l>The Evidence against him did appear,</l>
+               <l>And prov'd the accusation to be clear:</l>
+               <l>His <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Evasions could not satisfie,</l>
+               <l>The truth was as apparent as the sky.</l>
+            </lg>
+            <lg>
+               <l>The Tryal lasted for eight hours at least,</l>
+               <l>Where multitudes of people throng'd and prest:</l>
+               <l>Before my Lord Chief Iustice he was try'd,</l>
+               <l>And many other Learned men beside.</l>
+            </lg>
+            <lg>
+               <l>At length the Iury in their verdict brought,</l>
+               <l>And in the Court declared as they ought:</l>
+               <l>The Prisoner of High Treason guilty was,</l>
+               <l>But being night, no Sentence then did pass.</l>
+            </lg>
+            <lg>
+               <l>Next morning he was brought unto the bar,</l>
+               <l>Where Sentence did proceed on him so far:</l>
+               <l>That he should drawn, &amp; Hang'd, &amp; quartered be,</l>
+               <l>For this his Treason, and his Treachery.</l>
+            </lg>
+            <lg>
+               <l>This was his fact and his sad fatal doom,</l>
+               <l>He gain'd by being an Agent for <hi>Rome:</hi>
+               </l>
+               <l>I wish that all their factors which they send,</l>
+               <l>May come like him, to an untimely end.</l>
+            </lg>
+            <lg>
+               <l>For why they are of a malicious mind,</l>
+               <l>And unto blood and cruelty inclin'd:</l>
+               <l>They strive to bring to ruine a whole Land,</l>
+               <l>And make those fall, whom God ordains to stand.</l>
+            </lg>
+            <lg>
+               <l>But yet the Lord can frustrate their intent,</l>
+               <l>Although they daily are on mischief bent:</l>
+               <l>In his good time he will their Plots disclose,</l>
+               <l>That Iustice may take place on such as those.</l>
+            </lg>
+            <lg>
+               <l>If that we serve our Maker as we ought,</l>
+               <l>He their contrivances will bring to naught:</l>
+               <l>That we may see the sad and dismal fall,</l>
+               <l>Of such as would bring ruine to us all.</l>
+            </lg>
+            <lg>
+               <l>But now is come his Execution day,</l>
+               <l>Where people slockt to hear what he would say:</l>
+               <l>Where for his Love and Favour to the Pope,</l>
+               <l>
+                  <hi>Iack Katch</hi> did fit him with a Hempon Rope.</l>
+            </lg>
+            <lg>
+               <l>His Quarters on the Gates they do expose,</l>
+               <l>To be a Terrour to the Kingdoms Foes:</l>
+               <l>That Traitours may example take thereby,</l>
+               <l>Least that they come to endless misery.</l>
+            </lg>
+            <lg>
+               <l>Then let all Loyal Subjects have a care,</l>
+               <l>They be not drawn into the Popish snare,</l>
+               <l>And so God bless our King and Parliament,</l>
+               <l>And grant that of our sins we may repent.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, I. Wright, and I. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
